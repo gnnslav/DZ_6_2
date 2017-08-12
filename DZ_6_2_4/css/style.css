@@ -1,0 +1,102 @@
+
+
+div {
+	width: 800px;
+	margin: auto;
+	padding: 10px;
+	border: 1px solid grey;
+	border-radius: 10px;
+	box-shadow: 0px 0px 5px 2px grey;
+	opacity: 0.8;
+	position: relative;
+}
+
+table {
+	width: 800px;
+	height: 400px;
+}
+
+th {
+	padding: 20px 0px 10px 0px;
+	text-align: left;
+	border-bottom: 1px solid grey;
+}
+
+td {
+	border-bottom: 1px solid grey;
+}
+
+.lastline {
+	border-bottom: none; 
+}
+
+ tbody td:nth-child(1) {
+ 	color: red;
+ }
+
+  tbody td:nth-child(5) {
+ 	width: 220px;
+ }
+
+button {
+	height: 30px;
+	margin: 3px;
+	background: red;
+	color: white;
+	font-style: tahoma;
+	font-size: 15px;
+	font-weight: bold;
+	border: 0px;
+}
+
+button:nth-child(1){
+	width:30px;
+}
+
+button:nth-child(2){
+	width:30px;
+}
+
+.result{
+	padding: 0px;
+	color: grey;
+}
+
+tfoot td {
+	height: 20px;
+	padding: 30px 0px 0px 0px;
+	margin: 0px;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+ 	border-bottom: none; 
+ 	text-align: right;
+}
+
+.gotobox {
+	height: 50px;
+	text-align: center;
+	border-bottom: none; 
+
+}
+
+a {
+	color: red;
+	font-size: 20px;
+	font-family: arial;
+	font-style: italic;
+}
+
+.close{
+	padding: 0px;
+	color: whight;
+	box-shadow: 0px 0px 2px 2px grey;
+	background: black;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 50%;
+	position: fixed;
+	left: 1070px;
+	top: 00px;
+}
+

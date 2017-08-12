@@ -1,0 +1,16 @@
+
+table {
+	width: 960px;
+	height: 250px;
+	background: #d6edf1;
+	text-align: left;
+	opacity: 0.8;
+}
+
+th {
+	border-bottom: 1px solid grey;
+}
+
+td {
+	border-bottom: 1px solid grey;
+}

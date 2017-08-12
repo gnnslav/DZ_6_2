@@ -1,0 +1,46 @@
+
+
+table {
+	margin: 0px;
+	width: 760px;
+	height: 560px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	margin: 0px;
+	padding: 1px;
+	width: 120px;
+	height: 80px;
+	text-align: center;
+	font: 30px; 
+	font-family: tahoma;
+	border: 1px solid black;
+}
+
+td{
+	margin: 0px;
+	padding: 1px;
+	width: 120px;
+	height: 80px;
+	text-align: center;
+	font: 30px; 
+	font-family: tahoma;
+	border: 1px solid black;
+
+}
+
+.drink{
+	width: 160px;
+	height: 160px;
+}
+
+.man{
+    width: 760px;
+	height: 80px;
+}
+
+.namedrink{
+	text-align: left;
+}
