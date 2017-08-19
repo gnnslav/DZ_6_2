@@ -1,46 +1,42 @@
 
 
 table {
-	margin: 0px;
+	margin: 25px auto;
 	width: 760px;
-	height: 560px;
+	height: 300px;
 	border: 1px solid black;
 	border-collapse: collapse;
 }
 
 th {
 	margin: 0px;
-	padding: 1px;
+	padding: 10px;
 	width: 120px;
-	height: 80px;
 	text-align: center;
 	font: 30px; 
 	font-family: tahoma;
 	border: 1px solid black;
 }
 
-td{
+td {
 	margin: 0px;
 	padding: 1px;
 	width: 120px;
-	height: 80px;
 	text-align: center;
-	font: 30px; 
+	font: 20px bold; 
 	font-family: tahoma;
 	border: 1px solid black;
-
 }
 
 .drink{
 	width: 160px;
-	height: 160px;
 }
 
 .man{
     width: 760px;
-	height: 80px;
 }
 
 .namedrink{
+	height: 50px;
 	text-align: left;
 }

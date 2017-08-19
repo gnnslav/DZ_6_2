@@ -1,8 +1,14 @@
 
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
 table {
-	width: 960px;
+	width: 700px;
 	height: 250px;
-	background: #d6edf1;
+	margin: 30px auto;
+	background: #f9f9f9;
 	text-align: left;
 	opacity: 0.8;
 }
